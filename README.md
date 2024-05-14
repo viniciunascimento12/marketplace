@@ -1,7 +1,6 @@
-# app_flutter_shop
+# MarketPlace
 
-A new Flutter project.
-
+Aplicação de loja para smartphone, aplicação contém as funções básicas de como funciona uma loja e ainda conta com integração com o firebase da Google.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
